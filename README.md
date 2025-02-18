@@ -8,6 +8,8 @@ My name is Evan Taylor.
 ### Connect with Me  
 - 🌐 [Website](https://evan-taylor.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/evan-l-taylor)  
-- 📫 [Email](mailto:evan@evan-taylor.com)  
+- 📫 [Email](mailto:evan@evan-taylor.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-taylor&layout=compact)
 
 Thanks for stopping by!
